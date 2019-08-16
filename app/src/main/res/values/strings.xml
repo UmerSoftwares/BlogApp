@@ -1,0 +1,17 @@
+<resources>
+    <!--Change your app name here-->
+    <string name="app_name">Blog App</string>
+
+    <!--Replace these ids with your own admob ids-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <!--Do not change these-->
+    <string name="refresh">Refresh page</string>
+    <string name="share_link">Share this post</string>
+    <string name="open_browser">Open in browser</string>
+    <string name="exit">Exit</string>
+
+
+</resources>
