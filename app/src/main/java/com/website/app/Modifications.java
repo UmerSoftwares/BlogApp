@@ -13,7 +13,7 @@ public class Modifications {
 
 //    Basic Settings
     public static final String INITIAL_URL="https://example.com";
-    
+
 //    Advanced Settings
     public static final boolean HAS_ADS=false;
     public static final String[] FILTER={
